@@ -1,0 +1,1 @@
+{"version":1,"defects":{"UserControllerTest::testCreateUser":8},"times":{"UserRepositoryTest::testSaveUser":0,"UserTest::testUserCreation":0,"UserTest::testSetters":0,"SaveUserTest::testSaveUser":0.012,"UserControllerTest::testCreateUser":0.093}}
